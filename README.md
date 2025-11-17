@@ -36,8 +36,7 @@ This gives recommendations that are more realistic and personalized.
 You get:
 - A dropdown of all movie titles  
 - A “Recommend Movies” button  
-- A “Download CSV” button  
-- Results displayed neatly in the notebook  
+- A “Download CSV” button   
 
 ---
 
