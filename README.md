@@ -116,7 +116,10 @@ Code tested with multiple movie titles for stability.
 ###  Movie picker with dropdown list
 <img width="1054" height="729" alt="image" src="https://github.com/user-attachments/assets/a6637f19-4069-4ca2-8188-9e34c10eb081" />
 
-<img width="1237" height="613" alt="image" src="https://github.com/user-attachments/assets/b01e795a-9024-4131-9d69-cc1a74f10496" />
+
+<img width="1282" height="588" alt="output screenshot" src="https://github.com/user-attachments/assets/9f79a6e3-e4e3-4d70-b069-aadf0476b52f" />
+
+
 
 
 
